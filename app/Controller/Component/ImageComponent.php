@@ -217,7 +217,7 @@ class ImageComponent extends Component {
 	}
 
 /**
- * 生成缩略图 缩放比列自适应
+ * 生成缩略图 缩放比列固定尺寸
  * 
  * @param  string  $source    原始图片路径
  * @param  array   $option    生成缩略图参数
